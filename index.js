@@ -1,8 +1,8 @@
 let notes = [
     {
         id: new Date(),
-        title: 'Sample Note',
-        body: 'This is a description for our sample note',
+        title: 'Sample Note colshev',
+        body: 'description for our sample note',
         bgColor: 'pink'
     }
 ]
